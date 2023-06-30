@@ -1,0 +1,75 @@
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+rds3	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+
+
+Init_LCD		KEYWORD2
+
+
+Display_Data	KEYWORD2
+
+Display_Variable	KEYWORD2		
+
+
+Motor_Settings	KEYWORD2
+
+Motor_1	KEYWORD2
+Motor_2	KEYWORD2
+Motor_3	KEYWORD2	
+Motor_4	KEYWORD2
+
+
+Motor_1_OFF	KEYWORD2
+Motor_2_OFF	KEYWORD2
+Motor_3_OFF	KEYWORD2
+Motor_4_OFF	KEYWORD2
+
+
+Sensor_Settings	KEYWORD2
+
+Sensor_1	KEYWORD2
+Sensor_2	KEYWORD2
+Sensor_3	KEYWORD2
+Sensor_4	KEYWORD2
+
+
+Switch_Settings			KEYWORD2
+
+Switch_1				KEYWORD2
+Switch_2				KEYWORD2
+Switch_3				KEYWORD2
+Switch_4				KEYWORD2
+
+
+Buzzer_Settings			KEYWORD2
+Buzzer				KEYWORD2
+Buzzer_Off				KEYWORD2
+
+
+
+######################################
+# Instances (KEYWORD3)
+#######################################
+
+Clockwise KEYWORD3
+Anticlockwise KEYWORD3
+Analog_IR		KEYWORD3
+Ultrasonic		KEYWORD3
+Temperature		KEYWORD3
+Light		KEYWORD3
+Touch		KEYWORD3
+Sound		KEYWORD3
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+
